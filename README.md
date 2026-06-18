@@ -1,0 +1,2 @@
+# AA-STOCK
+manage stock
